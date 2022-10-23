@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
 function ResidentsList(props) {
-	console.log(props.list, "1");
 	return (
 		<div className="pa-10 mt-10 w-75">
 			<div className="font-weight-bold text-center">Residents List</div>
